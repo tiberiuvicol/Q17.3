@@ -1,8 +1,4 @@
-# Q17-an audiophile approach to perfect sound
-
-
-![Q17](https://github.com/tiberiuvicol/Q17-audiophile-amplifier/assets/22703498/90df6174-e5a7-49f1-85b9-d0f9ba2c27a2)
-
+# Q17.3 - more than an audiophile approach to perfect sound
 
 
 Q17 is a class B amplifier based on current dumping principle.<br>
