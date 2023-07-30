@@ -10,7 +10,7 @@ Use KiCad 6, or later, to open and edit source files.  KiCad 6 can be downloaded
 
 
 <br>
-Click & Order your Q17.3 parts @ digikey.com <a href="https://www.digikey.ro/ro/mylists/list/O9YXGXU6LF"> </a> <br>
+Click & Order your Q17.3 parts @ digikey.com <a href="https://www.digikey.ro/ro/mylists/list/O9YXGXU6LF"></a> <br>
 For STEREO or MULTICHANNEL multiply the order with the same parts. <br>
 <br>
 <br>
