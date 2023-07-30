@@ -2,7 +2,7 @@
 
 
 Q17.3 is a continuation of the Q17 class B amplifier based on current dumping principle.<br>
-Use KiCad 6, or later, to open and edit source files.  KiCad 6 can be downloaded from CERN, https://www.kicad.org<br>
+Use KiCad 7, or later, to open and edit source files.  KiCad 7 can be downloaded from CERN, https://www.kicad.org<br>
 <b>LTSpice</b> - contain simulation asc file<br>
 
 
