@@ -23,7 +23,7 @@ In addition, R10 and R13 have been reduced to 9R1.
 
 
 <br>
-Thank you for reading ! <br>
 If you have built this amplifier I would love to see your Q17 implementation. :-) <br>
 <br>
-Many thankd to Stéphane @stefaweb for taking the time to build and test Q17.3
+Many thankd to Stéphane @stefaweb for taking the time to build and test Q17.3 <br>
+Thank you for reading ! <br>
