@@ -21,10 +21,9 @@ In an atempt to make the amplifier more "popular", I have adopted well known par
 First stage after OPA828 is now a modified Borbely cascode, made with a well known jfet LSK170B and a depletion mosfet DN2535/DN2540. 
 In addition, R10 and R13 have been reduced to 9R1.<br>
 With this modifications, Q17 performence was considerably improved, both in measurement and listening.
-Enjoy !
-
 <br>
 If you have built this amplifier I would love to see your Q17 implementation. :-) <br>
 <br>
 Many thanks to Stéphane @stefaweb, for taking the time to build and test Q17.3 <br>
 Thank you for reading ! <br>
+Enjoy !
