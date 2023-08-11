@@ -1,7 +1,6 @@
 # Q17.3 - more than an audiophile approach to perfect sound
 
-
-Q17.3 is a continuation of the Q17 class B amplifier https://github.com/tiberiuvicol/Q17-audiophile-amplifier based on current dumping principle.<br>
+Q17.3 is a continuation of the <a href="https://github.com/tiberiuvicol/Q17-audiophile-amplifier">Q17 class B amplifier</a> based on current dumping principle.<br>
 Use KiCad 7, or later, to open and edit source files.  KiCad 7 can be downloaded from CERN, https://www.kicad.org<br>
 <b>LTSpice</b> - contain simulation asc file<br>
 
