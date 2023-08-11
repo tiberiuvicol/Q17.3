@@ -10,7 +10,7 @@ Use KiCad 7, or later, to open and edit source files.  KiCad 7 can be downloaded
 
 
 <br>
-Click & Order your Q17.3 parts @ digikey https://www.digikey.ro/ro/mylists/list/O9YXGXU6LF <br>
+Click & Order your Q17.3 parts @ digikey https://www.digikey.co.uk/en/mylists/list/O9YXGXU6LF <br>
 For STEREO or MULTICHANNEL multiply the order with the same parts. <br>
 You may order your PCB at 
 <a href="https://www.pcbway.com/project/shareproject/Q17_3_more_than_an_audiophile_approach_5a49a5dd.html"><img src="https://www.pcbway.com/project/img/images/frompcbway-1220.png" alt="PCB from PCBWay" /></a>
