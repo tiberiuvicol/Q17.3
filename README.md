@@ -25,5 +25,5 @@ With this modifications, Q17 performence was considerably improved, both in meas
 <br>
 If you have built this amplifier I would love to see your Q17 implementation. :-) <br>
 <br>
-Many thanks to Stéphane @stefaweb, for taking the time to build and test Q17.3 <br>
+Many thanks to Stéphane <a href=""https://github.com/stefaweb>@stefaweb"</a>, for taking the time to build and test Q17.3 <br>
 Enjoy and thank you for reading !
