@@ -4,7 +4,7 @@ Q17.3 is a continuation of the <a href="https://github.com/tiberiuvicol/Q17-audi
 Use KiCad 7, or later, to open and edit source files.  KiCad 7 can be downloaded from CERN, https://www.kicad.org<br>
 <b>LTSpice</b> - contain simulation asc file<br>
 
-![Q17 3](https://github.com/tiberiuvicol/Q17.3/assets/22703498/20012061-849b-4d76-9197-8cabab17cdc0)
+![Q17 3](https://github.com/tiberiuvicol/Q17.3/assets/22703498/c33cf50d-2c76-4c90-9847-e79272e3e053)
 
 <br>
 Click & Order your Q17.3 parts @ digikey https://www.digikey.co.uk/en/mylists/list/O9YXGXU6LF <br>
