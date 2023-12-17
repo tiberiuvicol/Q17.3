@@ -16,7 +16,7 @@ What is new ? <br>
 Operational was changed to OPA828. This is one of the few SiGe devices on the market, with terrific performance and most important, sound quality is exceptional.
 Current mirror was replaced with NDC7003P. This have 2 matched p-mos transistors on same substrate with same thermal Vgs deviation.<br>
 Furthermore, by adding Q7, current mirror was upgraded to a Wilson one. This improve mirror stability and class A stage operation at high frequncy.
-In an atempt to make the amplifier more "popular", I have adopted well known parts as IRFP240/IRFP9240, 2N4401/2N4403 and 2N5551/2N5401. These are widely available from various manufacturers.
+In an atempt to make the amplifier more "popular", I have adopted jellybean parts as IRFP240/IRFP9240, 2N4401/2N4403 and 2N5551/2N5401. These are widely available from various manufacturers.
 First stage after OPA828 is now a modified Borbely cascode, made with a well known jfet LSK170B and a depletion mosfet DN2535/DN2540. 
 In addition, R10 and R13 have been reduced to 9R1.<br>
 With this modifications, Q17 performence was considerably improved, both in measurement and listening.
