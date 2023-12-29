@@ -15,7 +15,7 @@ You may order your PCB at
 What is new ? <br>
 Operational was changed to OPA828. This is one of the few SiGe devices on the market, with terrific performance and most important, sound quality is exceptional.
 Current mirror was replaced with NDC7003P (PJS6839 is an alternative). This have 2 matched p-mos transistors on same substrate with same thermal Vgs deviation.<br>
-Furthermore, by adding Q7, current mirror was upgraded to a Wilson one. This improve mirror stability and class A stage operation at high frequncy.
+Furthermore, by adding Q7, current mirror was upgraded to a Wilson one. This improve mirror stability and class A stage operation at high frequency.
 In an atempt to make the amplifier more "popular", I have adopted jellybean parts as IRFP240/IRFP9240, 2N4401/2N4403 and 2N5551/2N5401. These are widely available from various manufacturers.
 First stage after OPA828 is now a modified "a la" Borbely cascode, made with a well known jfet LSK170B/2SK170B and a depletion mosfet DN2535/DN2540. 
 In addition, R10 and R13 have been reduced to 9R1. In case IRFP's get too hot (over 60Celsius), you may increase R10 and R13 to 10ohm.<br>
