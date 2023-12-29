@@ -18,7 +18,7 @@ Current mirror was replaced with NDC7003P (PJS6839 is an alternative). This have
 Furthermore, by adding Q7, current mirror was upgraded to a Wilson one. This improve mirror stability and class A stage operation at high frequncy.
 In an atempt to make the amplifier more "popular", I have adopted jellybean parts as IRFP240/IRFP9240, 2N4401/2N4403 and 2N5551/2N5401. These are widely available from various manufacturers.
 First stage after OPA828 is now a modified "a la" Borbely cascode, made with a well known jfet LSK170B/2SK170B and a depletion mosfet DN2535/DN2540. 
-In addition, R10 and R13 have been reduced to 9R1.<br>
+In addition, R10 and R13 have been reduced to 9R1. In case <br>
 With this modifications, Q17 performance was considerably improved, both in measurement and listening.
 <br>
 If you have built this amplifier I would love to see your Q17 implementation. :-) <br>
